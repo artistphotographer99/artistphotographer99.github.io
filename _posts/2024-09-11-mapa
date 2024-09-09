@@ -1,0 +1,8 @@
+---
+layout: post
+title: cuarto post
+---
+
+mapa
+
+![_config.yml]({{ site.baseurl }}/images/screenshot.1048.jpg)
