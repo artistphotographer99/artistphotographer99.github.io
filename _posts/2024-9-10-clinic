@@ -1,0 +1,8 @@
+---
+layout: post
+title: tercer post
+---
+
+Otra imagen
+
+![_config.yml]({{ site.baseurl }}/images/clinic_h1.png)
