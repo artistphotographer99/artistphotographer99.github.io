@@ -2,8 +2,12 @@
 layout: default
 ---
 
+<div class="lastpost">
+  {{ site.posts.first }}
+</div>div>
+
 <div class="posts">
-  {% for post in site.posts limit:1 %}
+  {% for post in site.posts %}
     <article class="post">
 
       <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
