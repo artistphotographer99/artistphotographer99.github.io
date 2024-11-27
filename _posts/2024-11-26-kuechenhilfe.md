@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Kuechenhilfe
+title: Küchenhilfe
 ---
 
-![_config.yml]({{ site.baseurl }}/images/bmr20241126_kuechenhilfe.jpeg)
+![_config.yml]({{ site.baseurl }}/images/bmr20241126_Kuechenhilfe.jpeg)
