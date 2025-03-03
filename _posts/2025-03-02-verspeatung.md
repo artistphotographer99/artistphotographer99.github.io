@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Verspätung
+title: Verspätet
 ---
 
 ![_config.yml]({{ site.baseurl }}/images/bmr20250302_verspaetung.jpeg)
